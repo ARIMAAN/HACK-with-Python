@@ -73,7 +73,7 @@ To explore the projects in this repository:
 HACK-with-Python/
 ├── README.md             (This file - overall project introduction)
 ├── NetworkScanner/
-│   ├── README.md        (Details for the NetworkScanner project)
+│   ├── README.md         (Details for the NetworkScanner project)
 │   ├── network_scanner.py
 ├── mac_changer/
 │   ├── README.md         (Details for the MAC Changer project)
